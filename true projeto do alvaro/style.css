@@ -1,114 +1,127 @@
 #fundo {
-    background-image: url(./true\ background.png);
-    background-size: cover;
+  background-image: url(./true\ background.png);
+  background-size: cover;
 }
 
 #arroz {
-    height: 150px;
-    width: 150px;
-    border-radius: 80px;
-    border-color: black;
-    border-width: 5px;
-    margin-left: 640px;
+  height: 150px;
+  width: 150px;
+  border-radius: 80px;
+  border-color: black;
+  border-width: 5px;
+  margin-left: 680px;
 }
 
-.feijao{
-    text-align: center;
+.feijao {
+  text-align: center;
 }
 
 .carne {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .salada {
-    background-color: pink;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 19);
-    margin: 30px;
-    border-radius: 5px; 
-    transition-duration: 0,3px;
+  background-color: pink;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 19);
+  margin: 30px;
+  border-radius: 5px;
+  transition-duration: 0, 3px;
 }
 
 .macarrao {
-    height: 200px;
+  height: 200px;
 }
 
-
-#feijoada{
-    background-image: url(./instagram\ logo.png);
-    height: 85px;
-    width: 85px;
-    background-size: cover;
-    cursor: pointer;
-    user-select: none;
-    border-radius: 60px;
-    margin-left: 515px;
-    
+#feijoada {
+  background-image: url(./instagram\ logo.png);
+  height: 85px;
+  width: 85px;
+  background-size: cover;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 60px;
+  margin-left: 575px;
 }
 
 #feijoada:hover {
-    transition: 1s;
-    height: 125px;
-    width: 125px;
+  transition: 1s;
+  height: 125px;
+  width: 125px;
 }
 
 #maça {
-    background-image: url(./logo\ twitter.png);
-    height: 85px;
-    width: 85px;
-    background-size: cover;
-    cursor: pointer;
-    user-select: none;
-    border-radius: 60px;
+  background-image: url(./logo\ twitter.png);
+  height: 85px;
+  width: 85px;
+  background-size: cover;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 60px;
 }
 
 #maça:hover {
-    transition: 1s;
-    height: 125px;
-    width: 125px;
+  transition: 1s;
+  height: 125px;
+  width: 125px;
 }
 
-#pizza{
-    background-image: url(./logo\ github.png);
-    height: 85px;
-    width: 85px;
-    background-size: cover;
-    cursor: pointer;
-    user-select: none;
-    border-radius: 60px;
+#pizza {
+  background-image: url(./logo\ github.png);
+  height: 85px;
+  width: 85px;
+  background-size: cover;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 60px;
 }
 
 #pizza:hover {
-    transition: 1s;
-    height: 125px;
-    width: 125px;
+  transition: 1s;
+  height: 125px;
+  width: 125px;
+}
+
+#silverstein {
+  background-image: url(./logo\ linkedIn.png);
+  height: 85px;
+  width: 85px;
+  background-size: cover;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 60px;
+}
+
+#silverstein:hover {
+  transition: 1s;
+  height: 125px;
+  width: 125px;
 }
 
 .hamburguer {
-    background-color: rgb(236, 153, 57);
-    width: 500px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 19);
-    display: block;
-    margin: auto;
-    border-radius: 10px;
+  background-color: rgb(236, 153, 57);
+  width: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 19);
+  display: block;
+  margin: auto;
+  border-radius: 10px;
 }
 
-#sorvete{
-    padding: 20px;
-    margin: 0px;
+#sorvete {
+  padding: 20px;
+  margin: 0px;
 }
 
-#limonada{
-    width: 300px;
-    height: 20px;
-    border-radius: 4px;
-    padding: 10px 0;
-    margin: 10px 0;
+#limonada {
+  width: 300px;
+  height: 20px;
+  border-radius: 4px;
+  padding: 10px 0;
+  margin: 10px 0;
 }
 
-#salmao{
-    border-radius: 4px;
-    width: 300px;
-    margin: 10px 0;
+#salmao {
+  border-radius: 4px;
+  width: 300px;
+  margin: 10px 0;
 }
-
